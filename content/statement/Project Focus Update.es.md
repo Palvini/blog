@@ -163,27 +163,18 @@ Los volúmenes de las cripto son muy grandes, pero engañosos porque el volumen 
 
 DEX permitirá que un mayor número de monedas esté activo en el mercado y en el libro de ordenes y aumentará la estabilidad al aumentar la profundidad del libro (porque los grandes acaparadores ya no tienen que preocuparse por el riesgo de que sus monedas sean robadas, confiscadas o hackeadas al tenerlas en una casa de cambio). La mayor profundidad del libro de ordenes debería disminuir la volatilidad y hacer que sea más difícil para un pequeño número de jugadores provocar grandes movimientos de precios y manipulaciones del mercado.
 
-Así que esperamos que la mayoría del mercado se mueva a DEX y la mayor parte del volumen de monedas pase a monedas que tienen tiempos de transacción más bajos (lejos del bitcoin) a las monedas cuyos tiempos de transacción son más cercanos al tipo de cambio (actualmente imposible para todas las monedas basadas en PoS/PoW y que ahora solo ha sido posible con nuevos algoritmos de consenso, como Skycoin Obelisk).
+Así que esperamos que la mayoría del mercado se mueva a DEX y la mayor parte del volumen de monedas pase a monedas que tienen tiempos de transacción más bajos (lejos del bitcoin) a las monedas cuyos tiempos de transacción son más cercanos a los de una casa de cambio (actualmente imposible para todas las monedas basadas en PoS/PoW y que ahora solo ha sido posible con nuevos algoritmos de consenso, como Skycoin Obelisk).
 
-I think exchange centralization is a fad or a phase (like MtGox).
+Pienso que la centralización de las casas de cambio es una moda o una fase (como MtGox).
 
-We will see more of the altcoin markets internalized because of the regulation
-and then eventually moved to DEX (decentralized exchange).
+Veremos que se internalizan más mercados de altcoin debido a la regulación y 
+luego se trasladarán a DEX (intercambio descentralizado).
 
-We are still working with the existing exchange, but are starting development
-of the Skycoin OTC market and our exchange federation protocol for enabling DEX.
+Todavía estamos trabajando con la casa de cambio actual, pero estamos comenzando el desarrollo del mercado OTC de Skycoin y nuestro protocolo de federación de casa de cambio para habilitar DEX.
 
-What is happening is the exchanges are forming "self-regulatory" committees to
-block the creation of new exchanges (the business is very profitable and they
-are making 0.1% on each side of every trade on very high volumes). Unless they
-can regulate out new competitors, the exchanges are unable to maintain their
-high transaction and trading fees. Then they are creating "white lists" by
-country and only allowing the listing of crypto assets that the investors/owner
-groups of the exchanges have invested in or own a large percentage of.
+Lo que está sucediendo es que las casas de cambio están formando comités "autorreguladores" para bloquear la creación de nuevas casas (el negocio es muy rentable y están haciendo un 0,1% de cada lado de cada operación en volúmenes muy altos). A menos que puedan regular a los nuevos competidores, las casas de cambio no pueden mantener sus altas tarifas de transacciones. Luego crean "listas blancas" por país y solo permiten la inclusión de activos criptográficos en los que los inversionistas/grupos de propietarios de las casas de cambio han invertido o poseen un gran porcentaje.
 
-The crypto-markets are forming into a new cabal, that is almost identical in
-structure and function to the wall-street cabal Bitcoin was developed to rebel
-against.
+Los criptomercados se están formando en una nueva elite, que es casi idéntica en estructura y función a la elite de wall-street que el desarrolló de Bitcoin planeaba rebelarse en contra.
 
 - the mining pool cabal (the three mining pools that control the network. Now
   being challenged by state backed mining pools, such as the Russian government
