@@ -1,5 +1,5 @@
 +++
-title = "Actualización de enfoque del proyecto"
+title = "Actualización del enfoque del proyecto"
 tags = [
     "Development",
     "Statement",
@@ -14,7 +14,7 @@ categories = [
 
 ### Cartera móvil
 
-La cartera móvil de Skycoin está lista.
+La cartera móvil de Skycoin ya está lista.
 
 [https://play.google.com/apps/testing/net.skycoin.mobile](https://play.google.com/apps/testing/net.skycoin.mobile)
 
@@ -25,13 +25,13 @@ Estamos renovando las páginas de contenido para el sitio web de Skycoin.
 Tenemos un nuevo logo.
 
 El programa de recompensas ha estado activo durante un mes. Si alguien quiere hacer videos de Skycoin,
-verifique el programa de recompensas en telegram.
+verifique el programa de recompensas en Telegram.
 
 [Activos de marca de Skycoin](https://www.skycoin.net/downloads/#assets)
 
 ### Skywire
 
-Skywire está funcionando, pero se está reescribiendo, para usar la biblioteca de redes skycoin/net.
+Skywire está funcionando, pero se está reescribiendo para usar la biblioteca de redes skycoin/net.
 
 El panel de control para la administración de clúster (administrador de nodos) 
 y el panel de la red global se encuentran actualmente en desarrollo.
@@ -53,8 +53,8 @@ La versión 20 es mucho más rápida que la cartera anterior.
 
 > Este foro está muerto y el precio está muerto...
 Quizás haya una correlación.
-Debido a que se mudaron a telegram, no hay conversaciones productivas aquí.
-Bitcointalk es el primer lugar donde las nuevas personas en crypto van para estudiar una nueva plataforma y
+No hay conversaciones productivas aquí debido a que se mudaron a telegram.
+Bitcointalk es el primer lugar donde las personas nuevas en crypto van para estudiar una nueva plataforma y
 no ven nada sucediendo aquí.
 
 El precio no está muerto.
@@ -63,7 +63,7 @@ El precio no está muerto.
 
 Es imposible que las personas compren al precio que desean 
 mientras que nadie quiere vender la moneda. No hay ninguna razón por la 
-que venda una moneda si puede ir de $0.05 a $600 en tres meses, 
+que alguien venda una moneda si puede ir de $0.05 a $600 en tres meses, 
 como lo hizo Byteballs y otras monedas. Esta es una dinámica bien conocida 
 para las personas que han estado observando durante los últimos 
 ocho años cómo opera el mercado de las monedas. Es especialmente 
@@ -73,243 +73,97 @@ financieros y cómo se producen las burbujas.
 Todas las monedas como IOTA, Litecoin, Byteballs, Bitcoin tuvieron períodos 
 de latencia muy largos.
 
-That is because exponential growth from a small user community, even at 1% per
-day growth rate takes years to growth to the point that it reaches public
-conscience.
+Esto se debe a que el crecimiento exponencial de una pequeña comunidad de usuarios, incluso a una tasa de crecimiento del 1% por día, lleva años para crecer hasta el punto de alcanzar la consciencia pública.
 
-The user community, technology growth at a continuous, constant rate over
-years, but the asset appreciation occurs suddenly and violently (once the coin/
-asset/market breaks a critical threshold of awareness). Then suddenly what you
-only heard two or three times before over a few months, suddenly begins to
-appear everywhere. User growth is constant and linear, while public perception,
-awareness and attention is a threshold function.
+La comunidad de usuarios y la tecnologia crecen a un ritmo continuo y constante a lo largo de los años, pero la apreciación de los activos ocurre repentina y violentamente (una vez que la moneda/activo/mercado rompe un límite crítico de conocimiento). Entonces, de repente, lo que solo se escuchó dos o tres veces antes de unos pocos meses, de repente comienza a aparecer en todas partes. El crecimiento del usuario es constante y lineal, mientras que la percepción, la atención y la atención del público es una función de límite.
 
-If user community is 100 people and growth rate is 1% per day, that is only 1
-new user per day. Our telegram doubled three times in users, over last two
-months and we have not even started on advertising or marketing yet and have
-almost zero videos and zero marketing towards public and have not done listing
-on any large exchanges yet for visibility.
+Si la comunidad de usuarios es de 100 personas y la tasa de crecimiento es del 1% por día, es solo 1 usuario nuevo por día. Nuestro Telegram se duplicó tres veces en usuarios en los últimos dos meses y aún no hemos comenzado a publicitar ni hacer *marketing*, tenemos casi cero videos y cero marketing para el público, y aún no hemos hecho registros para grandes casas de cambio para aumentar la visibilidad.
 
-The price does not matter either. There are projects that are a piece of shit
-and barely work, have no value and have massive operating costs (negative cash
-flow, losses) and who are trading at 120x the market cap of Skycoin. There are
-very very few blockchain projects that actually have developers, real user
-communities or actual technology that is useful or can retain a userbase.
+El precio tampoco importa. Hay proyectos que son una mierda y apenas funcionan, no tienen valor y tienen costos operativos masivos (flujo de efectivo negativo, pérdidas) los cuales se están cotizando a 120 veces la capitalización de Skycoin. Hay muy pocos proyectos de cadena de bloques que realmente tienen desarrolladores, comunidades de usuarios reales o tecnología real que sea útil o pueda retener una base de usuarios.
 
-The active userbase metrics for Skycoin have increased 8x, but the price has
-been stable. The price is not the best metric for evaluation, because it is a
-lagging indicator and lags behind technology, development, marketing and user
-community by months or years.
+Las métricas del volumen de usuarios activos de Skycoin han aumentado x8, pero el precio ha sido estable. El precio no es la mejor métrica para la evaluación, porque es un indicador retrasado y está rezagado respecto de la tecnología, el desarrollo, el *marketing* y la comunidad de usuarios por meses o años.
 
-Internally, we do not use the price a metric but look at fundamentals such as:
+Internamente, no usamos el precio como una métrica, sino que observamos los fundamentos tales como:
 
-- technology development and readiness status
-- user community growth
-- activity and application adaption
-- usability improvements
-- improvements in marketing effort and Skycoin structure/organization (how many
-  people are active in the bountry program)
+- Desarrollo tecnológico y estado de preparación
+- Crecimiento de la comunidad de usuarios
+- Actividad y adaptación de la aplicación
+- Mejoras de usabilidad
+- Mejoras en el esfuerzo de marketing y la estructura/organización de Skycoin (cuántas personas están activas en el programa de recompensas)
 
-As we have improved the coin and marketing **the Skycoin volume has decreased**
-because people have been less willing to sell. When we release major news, the
-Skycoin price does not increase, but the volume decreases because there are
-fewer people selling at the market clearing price. When we have done coin drops
-for testing, the skycoin price goes up, as we sell coins onto the market.
+A medida que hemos mejorado la moneda y el *marketing*, **el volumen de Skycoin ha disminuido** porque las personas han estado menos dispuestas a vender. Cuando lanzamos noticias importantes, el precio de Skycoin no aumenta, pero el volumen disminuye porque hay menos personas vendiendo al precio del mercado. Cuando realizamos las ventas de monedas para las pruebas, el precio de Skycoin aumenta a medida que vendemos monedas en el mercado.  
 
-Normally, the coefficient is negative. As you sell X coins onto the market, the
-market price should decline by Y. However, the market price goes up. The linear
-coefficient for the market's impulse response function has the wrong sign. "The
-more coins we sell the more the Skycoin price goes up".
+Normalmente, el coeficiente es negativo. Al vender X monedas en el mercado, el precio de mercado debería disminuir en Y. Sin embargo, el precio del mercado aumenta. El coeficiente lineal para la función de respuesta de impulso del mercado tiene el signo incorrecto. "Cuantas más monedas vendemos, más sube el precio de Skycoin".
 
-When people sell Skycoin the psychology is "Someone is dumping" and people try
-to lure them into dumping more by increasing the price. The buyers of Skycoin
-are trying to acquire long term positions (maximizing the absolute number of
-coins). So they are buying over time, without increasing the price. However,
-the sellers are not willing to sell at the current price.
+Cuando la gente vende Skycoin, la psicología es "Alguien está dumping" y la gente trata de atraerlos para que vendan más al aumentar el precio. Los compradores de Skycoin están tratando de adquirir posiciones a largo plazo (maximizando la cantidad absoluta de monedas). Entonces están comprando con el tiempo, sin aumentar el precio. Sin embargo, los vendedores no están dispuestos a vender al precio actual.
 
-This is consistent with what we are seeing on the OTC markets. There are some
-people who have 30% or 40% of their total cryptos holdings shifted into Skcoin
-and they are buying and holding and not participating actively on the markets (
-but instead waiting for future appreciation).
+Esto es consistente con lo que estamos viendo en los mercados de venta directa. Hay algunas personas que tienen el 30% o el 40% de sus criptos totales en Skycoin y están comprando y reteniendo y no participan activamente en los mercados (esperando una apreciación futura).
 
-So the market psychology of the Skycoin market is different than Monero or
-Dogecoin, where people are just sitting there day trading around the price and
-creating a high volume. Once we are on a larger exchange, we will see more day
-trading and high volume, but the buy and hold for early stage or emerging
-coins, does not generate a lot of volume.
+Entonces, la psicología de mercado de Skycoin es diferente a la de Monero o Dogecoin, donde las personas simplemente están sentadas allí negociando alrededor del precio y creando un gran volumen. Una vez que estemos en una casa de cambio más grande, veremos más transacciones diarias y un gran volumen, pero la compra y retención de monedas en etapa inicial no genera mucho volumen.
 
-We tried for a few times to do "market making" and put 10 BTC on both the bid
-and ask side, but the coins were all bought up and exhausted very quickly and
-we do not know how to set the spread or the price because there were only
-orders on the buy side and none of th sell, so the bot just runs out of coins,
-so we could not even run a market making bot successfully. This indicates there
-is high demand, but that people want to buy at a low price.
+Intentamos algunas veces hacer "creación de mercado" y pusimos 10 BTC tanto en el lado de la oferta como en el de la demanda, pero todas las monedas se agotaron muy rápidamente. No sabemos cómo establecer el margen o el precio porque solo habian órdenes del lado de la compra y ninguna de la venta, por lo que el bot simplemente se queda sin monedas, ni siquiera podíamos ejecutar un bot de fabricación de mercado con éxito. Esto indica que hay una gran demanda, pero que la gente quiere comprar a bajo precio.
 
-We are just going to let the markets do whatever they want, because that is
-just the way it is. The yoyo bot guy stopped and the market looks a lot better
-now and there are multiple people actively trading and price has been very
-stable. So the Skycoin market and order book is maturing.
+Simplemente vamos a dejar que los mercados hagan lo que quieran, porque así son las cosas. El tipo del yoyo bot se detuvo y el mercado se ve mucho mejor ahora y hay varias personas que operan activamente y el precio ha sido muy estable. Entonces, el mercado y el libro de ordenes de Skycoin están madurando.
 
-The people trading Skycoin are also extremely intelligence and sophisticated.
-They have an extremely high level of technical competency and education
-compared to the users of other coins. Many of the Skycoin user base also has a
-very good understanding of human psychology and market behavior.
+Las personas que comercian con Skycoin también son extremadamente inteligentes y sofisticadas. Tienen un nivel extremadamente alto de competencia técnica y educación en comparación con los usuarios de otras monedas. Muchos de los usuarios de Skycoin también tienen una muy buena comprensión de la psicología humana y el comportamiento del mercado.
 
-The Skycoin Community has the highest percentage of Software Developers and
-Engineers of all the coins. The Skycoin Community is very organized and many of
-them are planning their coin portfolio allocations out for months and years.
-They are looking at the new projects, before they are listed on exchanges and
-they are evaluating the projects based upon technical fundamentals and ability
-to appreciate in the future. So we do not have the emotional driven market of
-the other coins and the price has been very stable.
+La comunidad de Skycoin tiene el porcentaje más alto de desarrolladores de software e ingenieros de todas las monedas. La comunidad de Skycoin está muy organizada y muchos de ellos han planeado la asignación de su portafolios de monedas durante meses y años. Están mirando los nuevos proyectos, antes de que aparezcan en los intercambios, y están evaluando los proyectos sobre la base de los fundamentos técnicos y la capacidad de apreciar en el futuro. Así que no tenemos un mercado que es manejado emocionalmente como las otras monedas y el precio ha sido muy estable.
 
-- Skycoin has developers (most of the projects raising tens or hundreds of
-  million of dollars do not have developers)
-- Skycoin has its own blockchain (the ERC20 tokens and many of the projects
-  raising tens or hundreds of millions of dollars in "ICOs" do not have a
-  blockchain)
-- Skycoin has application, that can be run and work (almost all of the ICOs
-  raising tens or hundreds of millions of dollars do not have applications or
-  are just raising the money to hire developers/or build the applications which
-  do not exist except as vaporware)
-- Skycoin has a continuous development history of over almost eight years (
-  while many/most coins have no developers, no blockchain, no development
-  history and no working or demo applications)
-- Skycoin has technology. We know what we have to do to solve the problems we
-  are working on. (Instead of raising 100 million dollars to solve a problem
-  that people have been trying to solve and failing for the last four decades
-  with no progress).
-- Skycoin has a user community of people. (Not just bots and people flooding
-  channels with bots to claim bounty program rewards and competing for who can
-  get the most bots in their channel.)
+- Skycoin tiene desarrolladores (la mayoría de los proyectos que generan decenas o cientos de millones de dólares no tienen desarrolladores)
+- Skycoin tiene su propia cadena de bloques (los tokens ERC20 y muchos de los proyectos que generan decenas o cientos de millones de dólares en "ICO" no tienen una cadena de bloques)
+- Skycoin tiene una aplicación que se puede ejecutar (casi todas las ICO que recaudan decenas o cientos de millones de dólares no tienen aplicaciones o simplemente están recaudando dinero para contratar desarrolladores/o crear las aplicaciones que no existen, excepto como humo)
+- Skycoin tiene un historial de desarrollo continuo de casi ocho años (mientras que muchas/la mayoría de las monedas no tienen desarrolladores, ni cadena de bloques, ni historial de desarrollo, ni aplicaciones operativas o de demostración)
+- Skycoin tiene tecnología. Sabemos lo que tenemos que hacer para resolver los problemas en los que estamos trabajando. (En lugar de recaudar 100 millones de dólares para resolver un problema que las personas han estado tratando de resolver y han fallado durante las últimas cuatro décadas).
+- Skycoin tiene una comunidad de personas. (No solo bots y personas inundando canales con bots para reclamar recompensas del programa de recompensas y compitiendo por quién puede obtener la mayor cantidad de bots en su canal).
 - etc
 
-So based upon fundamentals we are doing very well. However, for most of the
-market it is impossible for someone on the outside to look at a coin and figure
-out "Does anyone actual use this?", "Does this coin actually have a user
-community?", "Is that 100 million dollars a day in trading volume real or is it
-one bot trading with itself to create the appearance of volume?". "Is coin
-really worth 200 million, or did some guy create 200 million coins and start
-trading them with himself for $1 a coin?". "Does this coin really have anyone
-following them on twitter or did they buy 50,000 bots to follow them".
+De modo que basándonos en los fundamentos lo estamos haciendo muy bien. Sin embargo, para la mayoría del mercado es imposible que alguien desde el exterior mire una moneda y se pregunte "¿Alguien realmente usa esto?", "¿Esta moneda tiene realmente una comunidad de usuarios?", "¿Esos 100 millones de dólares al día en el volumen de negociación son reales o es un bot comerciando consigo mismo para crear la apariencia de volumen?". "¿La moneda vale realmente 200 millones, o un tipo creó 200 millones de monedas y comenzó a comerciar consigo mismo por $1 cada moneda?". "Esta moneda realmente tiene a alguien siguiéndola en Twitter o compró 50,000 bots para seguirla".
 
-Most of the coins on the market today are completely fake. 100% fake. No
-developers. No blockchain. No product. Fake liquidity. No user community except
-for people paid to do activity and make it look like there is a user community.
-"Lets flood reddit with bots and pay fifteen people $40 a day to make it look
-like we have a community". ETC "We have a community. Look at our community
-manager shit posting under 14 different reddit accounts!"
+La mayoría de las monedas en el mercado hoy en día son completamente falsas. 100% falso. Sin desarrolladores. Sin cadena de bloques. Sin producto. Liquidez falsa. Sin comunidad de usuarios, excepto por las personas a las que se les paga por hacer actividad y hacer que parezca que hay una comunidad de usuarios. "Inundamos Reddit con bots y pagamos a quince personas $40 por día para que parezca que tenemos una comunidad". ETC "Tenemos una comunidad. ¡Mira a nuestro community manager publicando basura desde 14 cuentas de reddit diferentes!"
 
-You cannot compare Skycoin to these fake coins. If we wanted to do it the same
-way, we could do the same thing and make the market cap go to $500 million
-tomorrow. I can run a bot right now and send the volume to $5 million dollars a
-day. It does not mean anything.
+No puedes comparar a Skycoin con estas monedas falsas. Si quisiéramos hacerlo de la misma manera, podríamos hacer lo mismo y hacer que la capitalización de mercado sea de $500 millones mañana. Podemos ejecutar un bot en este momento y enviar el volumen a $5 millones de dólares por día. No significa nada.
 
-Skycoin has to be built upon a foundation of reality and not mere appearance.
-That is why all the attention is focused on the technology and the fundamental
-metrics, instead of running a penny stock pump and dump. In this market, to do
-this honestly is a huge handicap.
+Skycoin tiene que construirse sobre una base de realidad y no mera apariencia. Es por eso que toda la atención se centra en la tecnología y las métricas fundamentales, en lugar de ejecutar un P&D (bombear y tirar). En este mercado, hacerlo honestamente es una gran desventaja.
 
-We anticipate that during these bubbles, people will make a lot of money
-speculating on dubious assets and projects, however as the bubble deflates the
-smart money will rebalanced away from the speculative assets into projects
-which have a foundation in reality and not merely speculative (flight to
-safety). The current alt-coin market has a penny stock pump and dump, horse
-betting mentality and is not favorable for real projects. The current market
-for crypto-asset is still purely speculator driven.
+Anticipamos que durante estas burbujas, la gente ganará mucho dinero especulando sobre activos y proyectos dudosos, sin embargo, a medida que la burbuja se desinfle, el dinero inteligente volverá a equilibrarse de los activos especulativos a proyectos que tienen una base real y no meramente especulativa (vuelo a la seguridad). El mercado actual de monedas alternativas tiene una mentalidad de bombear y tirar, apuestas de caballos y no es favorable para proyectos reales. El mercado actual de cripto-activos sigue siendo puramente especulativo.
 
-The current crypto-assets market:
+El mercado de criptoactivos actual:
 
-- Instead of being driven by reason, it is driven by emotion
-- Instead of being driven by reality, it is driven by perception.
-- Instead of being driven by value, it is driven by speculation
+En lugar de ser impulsado por la razón, es impulsado por la emoción
+En lugar de ser impulsado por la realidad, es impulsado por la percepción.
+En lugar de ser impulsado por el valor, es impulsado por la especulación
 
-We wanted to differentiate Skycoin by moving away from this and preparing for
-the phase when the money shifts away from the speculative coins into a
-fundamental or value driven market. However, majority of the market for the
-immediate future is going to be valueless asset tokens, with no revenue or
-income and no economic purpose and no economic activity, which have hundred
-million dollar or billion dollar valuations. The sole value of the token, being
-that there are people are wiling to buy the tokens for harder, spendable
-currencies like Bitcoin or fiat (pump and dump).
+Queríamos diferenciar a Skycoin alejándonos de esto y preparándonos para la fase en que el dinero pasa de las monedas especulativas a un mercado fundamental o impulsado por el valor. Sin embargo, la mayoría del mercado para el futuro inmediato va a ser un conjunto de activos sin valor, sin ganancias ni ingresos ni propósito económico ni actividad económica, que tengan valoraciones de cien millones de dólares o miles de millones de dólares. El único valor del token es que hay personas que desean comprar los tokens con monedas más duras y gastables como Bitcoin o Fiat (P&D).
 
-I believe the next stage of crypto-currencies we are entering will be coins
-based upon user communities, real economic activity, crypto based applications
-and commodity backed coins (power grid tokens, bandwidth/telecom coins). Where
-as the current generation is based upon marketing slogans "We are IoT" (with no
-IoT devices) and "We have Smart Contracts" (that no one uses).
+Creo que la próxima etapa de las criptomonedas que estamos introduciendo serán monedas basadas en comunidades de usuarios, actividad económica real, aplicaciones basadas en criptografía y monedas respaldadas por productos básicos (tokens de electricidad, monedas de ancho de banda/telecomunicaciones). Mientras que la generación actual se basa en lemas de marketing "Somos IoT" (sin dispositivos IoT) y "Tenemos contratos inteligentes" (que nadie usa).
 
-Then Skycoin also have a large segment of the community is also very patient
-and is testing out new software (with bugs) or that is difficult to use and
-install (like the BBS app, mobile wallet and Skymesssanger). So they have some
-experience with what we are building that the public has not seen and which has
-not been marketing etc. Many people are closely and personally tracking the
-Skycoin project progress now and testing the applications.
+Entonces Skycoin también tiene un gran segmento de la comunidad que también es muy paciente y está probando un nuevo software (con errores) o que es difícil de usar e instalar (como la aplicación BBS, la cartera móvil y el Skymesssenger). Así que tienen algo de experiencia con lo que estamos construyendo que el público no ha visto y que no ha sido comercializado, etc. Muchas personas están siguiendo de cerca y personalmente el progreso del proyecto Skycoin ahora y probando las aplicaciones.
 
-The price has also been tracking the Yuan and USD. However, in the long term we
-expect Skycoin will resume tracking BTC. Especially after the OTC market is
-integrated.
+El precio también ha estado siguiendo al Yuan y al USD. Sin embargo, a largo plazo, esperamos que Skycoin reanude el seguimiento de BTC. Especialmente después de que el mercado OTC (venta directa) esté integrado.
 
-Price is a lagging metric, so is not useful.  Price appreciations can be
-extremely violent and rapid and often reflect userbase growth or adaption that
-has been occurring continuously over years. It can also reflect what happens
-when a coin breaks the level of conscienceness, due to onset of sudden, high
-intensity, focused marketing and exchange listings (which takes months or years
-to prepare and lay the foundation for).
+El precio es una métrica rezagada, por lo que no es útil. Las apreciaciones de los precios pueden ser extremadamente violentas y rápidas y, a menudo, reflejan el crecimiento o la adaptación de la base de usuarios que se ha estado produciendo continuamente a lo largo de los años. También puede reflejar lo que sucede cuando una moneda rompe el nivel de consciencia, debido al inicio repentino, de alta intensidad, de marketing enfocado e inscripciones en casas de cambio (lo que lleva meses o años para preparar y sentar las bases).
 
-### Exchange Listings
+### Inclusión en casas de cambio
 
-The scheduled listing on US exchanges was affected by the SEC letter. **The US
-exchanges still have not resumed listing new coins.**
+Los registros programados en los mercados de EE.UU. se vieron afectados por la carta de la SEC. **Las bolsas de EE.UU. Aún no han reanudado la inclusión de nuevas monedas.**
 
-We think all the US exchanges will be dead or irrelevant within two years.
+Creemos que todas las casas de cambio de EE.UU. estarán muertas o serán irrelevantes dentro de dos años.
 
-Any US jurisdiction can be seized and the customers coins stolen by the
-government at any time (similar to what happened to eGold when the US
-government seized the customers collateral and kept it or MtGox when it went
-into receivership). There is an extremely long history of governments (
-especially the US government) just seizing assets and collateral belonging to
-customers and just stealing the money and assets.
+Se puede confiscar cualquier jurisdicción de los EE.UU. Y las monedas de los clientes robadas por el gobierno en cualquier momento (similar a lo que sucedió con eGold cuando el gobierno de EE.UU. confiscó la garantía del cliente o MtGox cuando entró en suspensión de pagos). Hay una historia extremadamente larga de gobiernos (especialmente del gobierno de los EE.UU.) Que simplemente se apoderan de los activos y las garantías que pertenecen a los clientes y simplemente les roban el dinero y los activos.
 
-Current regulatory actions in the United States, Japan, Korean and China are
-accelerating the schedule for adaption of DEX (decentralized exchange)
-technology.
+Las actuales medidas reglamentarias en los Estados Unidos, Japón, Corea y China están acelerando el calendario de adaptación de la tecnología DEX (intercambio descentralizado).
 
-We should have accelerated and prioritized the time table for exchange listings
-last year. This set our time table back six months, but is not major problem.
+Debimos haber acelerado y priorizado la tabla de tiempo para las inclusiones en las casas de cambio el año pasado. Esto estableció nuestro cronograma seis meses atrás, pero no es un problema importante.
 
-Most of the large coin holdings have been moved off exchange are essentially
-illiquid because of the risk of theft from government seize, risk of exchange
-being hacked and/or holders being unwilling to submit themselves to the
-invasive tracking and surveillance that use of the current exchange entails.
+La mayoría de las grandes existencias de monedas se han movido fuera de las casas de cambio, estas son esencialmente ilíquidas debido al riesgo de robo por la toma del gobierno, el riesgo de que la casa de cambio sea hackeada y/o los titulares no están dispuestos a someterse al seguimiento invasivo y la vigilancia que el uso de la casa de cambio implica.
 
-Since most of the Bitcoin are off-market and not on the order books (
-non-exchange traded), for the above reasons, the market for crypto assets is
-being set largely by a small number of high speed arbitrage firms with massive
-volume, whose positions in the order book are extremely thin compared to the
-total volume of coins in circulation. Meaning that if people attempted
-liquidation of even 1% of the outstanding volume of issued coins, there would
-be a severe decrease in coin price and inability to find buyers at the current
-market price without taking a 30% to 70% discount (depending on the magnitude
-of the capital outflows which are occurring at the same time).
+Dado que la mayoría de los bitcoins no están en el mercado y no están en los libros de órdenes (son intercambiados fuera del mercado), por las razones anteriores, el mercado de activos criptográficos está siendo establecido principalmente por un pequeño número de firmas de arbitraje de alta velocidad con volumen masivo, cuyas posiciones en el libro de ordenes son extremadamente delgadas en comparación con el volumen total de monedas en circulación. Lo que significa que si las personas intentaran liquidar incluso el 1% del volumen de monedas emitidas, habría una disminución severa en el precio de la moneda e incapacidad de encontrar compradores al precio actual del mercado sin tener un descuento del 30% al 70% (dependiendo de la magnitud de las salidas de capital que están ocurriendo al mismo tiempo).
 
-The crypto volumes are are very large, but deceptive because the volume is from
-high frequency bots and does not reflect the order-book depth. Even 1% of coins
-being dumped can completely destroy the order book.
+Los volúmenes de las cripto son muy grandes, pero engañosos porque el volumen proviene de bots de alta frecuencia y no refleja la profundidad del libro de ordenes. Incluso el 1% de las monedas siendo vendidas pueden destruir por completo el libro de ordenes.
 
-DEX will allow a larger number of coins to be active on the market and order
-book and increase stability by increasing the orderbook depth (because large
-holders do no longer need to worry about counter party risk and having their
-coins stolen, seized or hacked by keeping them on exchange). The increased
-order book depth should decrease volatility and make it more more difficult for
-a small number of players to cause large price movements and market
-manipulations.
+DEX permitirá que un mayor número de monedas esté activo en el mercado y en el libro de ordenes y aumentará la estabilidad al aumentar la profundidad del libro (porque los grandes acaparadores ya no tienen que preocuparse por el riesgo de que sus monedas sean robadas, confiscadas o hackeadas al tenerlas en una casa de cambio). La mayor profundidad del libro de ordenes debería disminuir la volatilidad y hacer que sea más difícil para un pequeño número de jugadores provocar grandes movimientos de precios y manipulaciones del mercado.
 
-So we are expecting most of the market to move to DEX and most of the coin
-volume to move to coins that have lower transaction times (away from bitcoin)
-to the coins whose transaction times are closer to the rate of exchanges (
-currently impossible for all coins based upon PoS/PoW and which has only now
-become possible with new consensus algorithms, such as Skycoin Obelisk).
+Así que esperamos que la mayoría del mercado se mueva a DEX y la mayor parte del volumen de monedas pase a monedas que tienen tiempos de transacción más bajos (lejos del bitcoin) a las monedas cuyos tiempos de transacción son más cercanos al tipo de cambio (actualmente imposible para todas las monedas basadas en PoS/PoW y que ahora solo ha sido posible con nuevos algoritmos de consenso, como Skycoin Obelisk).
 
 I think exchange centralization is a fad or a phase (like MtGox).
 
